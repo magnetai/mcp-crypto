@@ -16,9 +16,11 @@ The Claude MCP Crypto Alliance aims to drive blockchain innovation by bringing a
 
 ## Core Contributors
 
-* [Luke Fan](https://x.com/baaadkk) - Co-founder of [Magnet Labs](https://magnetlabs.xyz)
-* [Dylan Zhang](https://x.com/ThinksDylan) - Co-Founder and CEO of [Pond](https://cryptopond.xyz/)
-* [Yang Zhao](https://github.com/LowEntropyBody) - Co-founder & CTO of [Magnet Labs](https://magnetlabs.xyz)
+* Luke Fan [Github](https://github.com/badkk) · [Twitter](https://x.com/baaadkk) - Co-founder of [Magnet Labs](https://magnetlabs.xyz)
+* Luca Curran [Github](https://github.com/lucacurranCB) · [Twitter](https://x.com/luca_curran) - [Base](https://base.org) Ecosystem Team | DePIN & AI lead
+* Dylan Zhang [Twitter](https://x.com/ThinksDylan) - Co-founder and CEO of [Pond](https://cryptopond.xyz/)
+* Lude Clay [Twitter](https://x.com/The_JesusCrust) - Co-founder and CGO of [Magnet Labs](https://magnetlabs.xyz)
+* Yang Zhao [Github](https://github.com/LowEntropyBody) - Co-founder & CTO of [Magnet Labs](https://magnetlabs.xyz)
 
 ## Resources
 
